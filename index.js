@@ -3,4 +3,4 @@ let b=20;
 let c=a+b;
 console.log("The sum of a and b is: " , a+b);
 
-console.log("this line is from local repo");
+console.log("added a line is from remote repo");
