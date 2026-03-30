@@ -41,3 +41,6 @@ console.log("new line from local");
 
 // 🔹 10. Different Changes in Adjacent Lines (Complex Cases)
 // Even if not the exact same line, nearby changes can confuse Git’s merge algorithm.
+
+// feature branch code
+console.log("added a new feature from feature branch");
